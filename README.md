@@ -61,6 +61,9 @@ and lot of other options, like width, projects, pages, read-time, tags, related 
 Check the [FAQ](./FAQ.md) if you have any doubt or problem.
 
 ---
+
+teste
+
 ## License
 
 [MIT](https://kopplin.mit-license.org/) License © Sérgio Kopplin
