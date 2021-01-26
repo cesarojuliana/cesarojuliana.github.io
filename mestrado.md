@@ -17,8 +17,8 @@ consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-<a href="paper_ecml_pkdd.pdf" target="_blank">PDF teste.</a>
-[paper](https://github.com/cesarojuliana/cesarojuliana.github.io/blob/main/mestrado/paper_ecml_pkdd.pdf)
+
+- [Paper](https://link.springer.com/chapter/10.1007/978-3-030-43823-4_22) apresentado na conferência ECML PKDD em um workshop com foco em interpretabilidade (AIMLAI-XKDD)
 
 <h2>Skills</h2>
 
