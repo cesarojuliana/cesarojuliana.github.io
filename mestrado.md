@@ -18,6 +18,7 @@ cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 <a href="paper_ecml_pkdd.pdf" target="_blank">PDF teste.</a>
+[paper](https://github.com/cesarojuliana/cesarojuliana.github.io/blob/main/mestrado/paper_ecml_pkdd.pdf)
 
 <h2>Skills</h2>
 
