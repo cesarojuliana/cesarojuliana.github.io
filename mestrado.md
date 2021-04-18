@@ -3,7 +3,7 @@ title: Mestrado
 layout: page
 ---
 
-<div align="center">
+<div align="justify">
 Pesquisa para avaliar a relação entre o uso de técnicas de interpretabilidade e medidas de fairness para avaliar a existência de viés em modelos. Foi utilizado o SHAP como técnica de interpretabilidade, e foram selecionados diversos tipos de medidas de fairness para comparação com o resultados do SHAP.
 </div>
 
