@@ -6,5 +6,3 @@ layout: page
 
 Cientista de dados com mais de 5 anos de experiência. Eu amo resolver problemas com dados e aprender coisas novas, especialmente sobre análises estatística, machine learning, interpretabilidade de modelo e fairness.
 
-teste
-
